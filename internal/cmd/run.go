@@ -10,8 +10,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/rwtodd/Go.Sed/sed"
 	"github.com/spf13/cobra"
-	"github.com/stateful/rdme/internal/parser"
-	"github.com/stateful/rdme/internal/runner"
+	"github.com/yendo/rdme/internal/parser"
+	"github.com/yendo/rdme/internal/runner"
 )
 
 func runCmd() *cobra.Command {

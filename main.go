@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/stateful/rdme/internal/cmd"
+	"github.com/yendo/rdme/internal/cmd"
 )
 
 // These are variables so that they can be set during the build time.

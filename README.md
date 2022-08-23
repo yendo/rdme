@@ -11,7 +11,7 @@ To select a different file than `README.md`, use `--filename`.
 
 If you have Go developer tools installed, you can install it with `go install`:
 
-```console
+```sh
 $ go install github.com/yendo/rdme@latest
 ```
 

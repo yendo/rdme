@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
-	"github.com/stateful/rdme/internal/tasks"
+	"github.com/yendo/rdme/internal/tasks"
 )
 
 func tasksCmd() *cobra.Command {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
-	"github.com/stateful/rdme/internal/parser"
+	"github.com/yendo/rdme/internal/parser"
 )
 
 var (

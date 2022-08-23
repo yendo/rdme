@@ -14,7 +14,7 @@ type Snippet struct {
 }
 
 func (s *Snippet) Executable() string {
-	if s.language != "" {
+	if s.language != "" && s.language != "console" {
 		return s.language
 	}
 	return "sh"
